@@ -1,5 +1,1 @@
-plugins/zsh-autosuggestions
-plugins/zsh-syntax-highlighting
-plugins/k
-plugins/autoupdate
-plugins/you-should-use
+plugins/**
